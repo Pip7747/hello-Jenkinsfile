@@ -18,4 +18,4 @@ pipeline {
             }
         }
     }
-}
+}#will end starting news
